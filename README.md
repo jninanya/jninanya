@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --->
 
-This is Johan Ninanya (aka _"noni"_). I'm a meteorologist and work as a research assistant at Crop and Systems Sciences Division, Production Syst. Env. of [International Potato Center](https://cipotato.org/). He has experience in developing mechanistic soil-plant-atmospheric mathematical models whit emphasis on crop potato, simulating its growth and development under potential and water-limited conditions and scenarios of climate change. Also, he has knowledge of programming in Fortran, MATLAB, and R, and is interested in crop modeling, numerical weather models, impacts and scenarios of climate change, and abiotic constraints. He is currently studying a masters degree in Applied Meteorology at National Agrarian University - La Molina.
+This is Johan Ninanya (aka _"noni"_). I'm a meteorologist and work as a research assistant at Crop and Systems Sciences Division, Production Syst. Env. of [International Potato Center](https://cipotato.org/). He has experience in developing mechanistic soil-plant-atmospheric mathematical models whit emphasis on crop potato, simulating its growth and development under potential and water-limited conditions and scenarios of climate change. Also, he has knowledge of programming in Fortran, MATLAB, and R, and is interested in crop modeling, numerical weather models, impacts and scenarios of climate change, and abiotic constraints. He is currently studying a masters degree in [Applied Meteorology](http://www.lamolina.edu.pe/Postgrado/meteoroaplicada/) at [National Agrarian University - La Molina](http://www.lamolina.edu.pe/posgrado/).
 
 
 
