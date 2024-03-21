@@ -17,18 +17,7 @@ Here are some ideas to get you started:
 
 This is Johan Ninanya (aka _"noni"_). I'm a meteorologist and work as a research assistant at Crop and Systems Sciences Division, Production Syst. Env. of [International Potato Center](https://cipotato.org/). He has experience in developing mechanistic soil-plant-atmospheric mathematical models whit emphasis on crop potato, simulating its growth and development under potential and water-limited conditions and scenarios of climate change. Also, he has knowledge of programming in Fortran, MATLAB, and R, and is interested in crop modeling, numerical weather models, impacts and scenarios of climate change, and abiotic constraints. He is currently studying a masters degree in [Applied Meteorology](http://www.lamolina.edu.pe/Postgrado/meteoroaplicada/) at [National Agrarian University - La Molina](http://www.lamolina.edu.pe/posgrado/).
 
-
-
-
-
-
-
-
-
-
-
-research scholar in the [Biodiversity, Ecology, and Conservation Group](https://iiasa.ac.at/programs/bnr/bec) based at the [International Institute for Applied Systems Analysis](https://iiasa.ac.at/). Previously, I was a postdoctoral fellow in the [Coastal Ecology and Conservation Lab](https://www.jacoballgeier.com) based at the [University of Michigan](https://lsa.umich.edu/eeb), and a PhD student in the [Ecosystem Modelling Group](https://www.uni-goettingen.de/en/102170.html) based at the [University of Goettingen](https://www.uni-goettingen.de/de/fakultät+für+forstwissenschaften+und+waldökologie/19852.html).
-
+<!---
 ___
 
 <p align="center">
@@ -59,3 +48,5 @@ ___
   <a href="mailto:mhk.hesselbarth@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-mhk.hesselbarth<at>gmail.com-FAFAFA?style=social&logo=Gmail&logoColor=black"></a>
   <a href="https://www.twitter.com/mhkhesselbarth"><img alt="Twitter" src="https://img.shields.io/twitter/follow/mhkhesselbarth?style=social"></a>
 </p>
+
+--->
