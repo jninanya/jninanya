@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+<!---
 **jninanya/jninanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,16 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+--->
 
-
-
-testing profile readme
-
-___
-
-### Welcome 👋
-
-Hi, I'm Max (Pronouns: _he/him_). I'm a computational ecologist and research scholar in the [Biodiversity, Ecology, and Conservation Group](https://iiasa.ac.at/programs/bnr/bec) based at the [International Institute for Applied Systems Analysis](https://iiasa.ac.at/). Previously, I was a postdoctoral fellow in the [Coastal Ecology and Conservation Lab](https://www.jacoballgeier.com) based at the [University of Michigan](https://lsa.umich.edu/eeb), and a PhD student in the [Ecosystem Modelling Group](https://www.uni-goettingen.de/en/102170.html) based at the [University of Goettingen](https://www.uni-goettingen.de/de/fakultät+für+forstwissenschaften+und+waldökologie/19852.html).
+This is Johan Ninanya (Pronouns: _he/him_). I'm a meteorologist and research scholar in the [Biodiversity, Ecology, and Conservation Group](https://iiasa.ac.at/programs/bnr/bec) based at the [International Institute for Applied Systems Analysis](https://iiasa.ac.at/). Previously, I was a postdoctoral fellow in the [Coastal Ecology and Conservation Lab](https://www.jacoballgeier.com) based at the [University of Michigan](https://lsa.umich.edu/eeb), and a PhD student in the [Ecosystem Modelling Group](https://www.uni-goettingen.de/en/102170.html) based at the [University of Goettingen](https://www.uni-goettingen.de/de/fakultät+für+forstwissenschaften+und+waldökologie/19852.html).
 
 ___
 
